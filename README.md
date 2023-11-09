@@ -1,1 +1,1 @@
-# Hello-World
+Hello World! I'm Red (Thach Quoc Nguyen), and I'm on a journey to master data science. Here, I'll be sharing my projects, notes, and code as I delve into topics like machine learning, data analysis, and more. Stay tuned for updates as I learn and grow in this exciting field.
